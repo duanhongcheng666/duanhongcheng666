@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duanhongcheng666.
+- 👋 Hi, I’m duanhongcheng.
 - 👀 I’m interested in bluetooth code development and maintenance.
 - 🌱 I’m currently learning Java and C/C++ language.
 - 💞️ I’m looking to collaborate on BT stack/fw issues analysis.
